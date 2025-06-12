@@ -3,5 +3,6 @@
   * [Bitcoin Maturation](topic=6.md)
   * [Request: Make this anonymous?](topic=7.md)
   * [How anonymous are bitcoins?](topic=8.md)
+  * [Linux/UNIX compile](topic=9.md)
   * TODO:
 * TODO:
