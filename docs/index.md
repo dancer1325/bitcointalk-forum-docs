@@ -4,5 +4,7 @@
   * [Request: Make this anonymous?](topic=7.md)
   * [How anonymous are bitcoins?](topic=8.md)
   * [Linux/UNIX compile](topic=9.md)
+  * [Bitcoin v0.2 development status](topic=10.md)
+  * [Few suggestions](topic=12.md)
   * TODO:
 * TODO:
