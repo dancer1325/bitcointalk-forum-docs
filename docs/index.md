@@ -6,5 +6,6 @@
   * [Linux/UNIX compile](topic=9.md)
   * [Bitcoin v0.2 development status](topic=10.md)
   * [Few suggestions](topic=12.md)
+  * [Questions about Bitcoin](topic=13.md)
   * TODO:
 * TODO:
