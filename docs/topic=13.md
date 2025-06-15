@@ -20,7 +20,7 @@ https://bitcointalk.org/index.php?topic=13
       * backup the whole %appdata%\Bitcoin directory
     * v0.2,
       * backup ONLY "wallet.dat"
-* is possible to MULTIPLY a wallet | DIFFERENT machines?
+* possible to MULTIPLY a wallet | DIFFERENT machines?
   * ❌NOT❌
 * is someone loses his wallet -> is there a way to recreate the LOST coins | system ?
   * NEVER be recovered
