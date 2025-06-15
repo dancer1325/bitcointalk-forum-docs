@@ -8,5 +8,6 @@
   * [Few suggestions](topic=12.md)
   * [Questions about Bitcoin](topic=13.md)
   * [BTC 2 PSC](topic=15.md)
+  * [Bitcoin v0.2](topic=16.md)
   * TODO:
 * TODO:
